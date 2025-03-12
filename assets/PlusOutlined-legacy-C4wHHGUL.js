@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DUGxuoLW.js","./PlusOutlined-legacy--5ABJuSZ.js"],(function(e,r){"use strict";var t,n,c,s;return{setters:[e=>{t=e.r,n=e.A,c=e._},e=>{s=e.P}],execute:function(){var r=function(e,r){return t.createElement(n,c({},e,{ref:r,icon:s}))};e("P",t.forwardRef(r))}}}));

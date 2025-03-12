@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DUGxuoLW.js"],(function(e,s){"use strict";var t,r;return{setters:[e=>{t=e.r,r=e.j}],execute:function(){e("S",(({name:e,size:s="36px",color:i="#000",profix:n="icon"})=>{const c=t.useMemo((()=>`#${n}-${e}`),[n,e]);return r.jsx("svg",{style:{height:s,width:s},children:r.jsx("use",{href:c,fill:i})})}))}}}));

@@ -1,0 +1,1 @@
+System.register(["./index-legacy-DUGxuoLW.js"],(function(e,r){"use strict";var t,n,c,i;return{setters:[e=>{t=e.r,n=e.A,c=e._,i=e.bU}],execute:function(){var r=function(e,r){return t.createElement(n,c({},e,{ref:r,icon:i}))};e("E",t.forwardRef(r))}}}));
