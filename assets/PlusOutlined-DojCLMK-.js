@@ -1,1 +1,0 @@
-import{r as t,A as n,_ as o}from"./index-CvSXcI3D.js";import{P as s}from"./PlusOutlined-B9smaIDR.js";var a=function(e,r){return t.createElement(n,o({},e,{ref:r,icon:s}))},u=t.forwardRef(a);const d=u;export{d as P};

@@ -1,1 +1,0 @@
-import{r as e,A as n,_ as o}from"./index-CvSXcI3D.js";import{D as a}from"./DeleteOutlined-CFzVRjhm.js";var l=function(t,r){return e.createElement(n,o({},t,{ref:r,icon:a}))},i=e.forwardRef(l);const f=i;export{f as D};

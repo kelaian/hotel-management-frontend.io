@@ -1,1 +1,0 @@
-import{r as c,j as e}from"./index-CvSXcI3D.js";const x=({name:s,size:t="36px",color:o="#000",profix:r="icon"})=>{const n=c.useMemo(()=>"#".concat(r,"-").concat(s),[r,s]);return e.jsx("svg",{style:{height:t,width:t},children:e.jsx("use",{href:n,fill:o})})};export{x as S};
